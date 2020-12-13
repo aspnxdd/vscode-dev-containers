@@ -2,7 +2,7 @@
 
 <table style="width: 100%; border-style: none;"><tr>
 <td style="width: 140px; text-align: center;"><a href="https://aka.ms/vscode-remote/download/extension"><img width="128px" src="https://microsoft.github.io/vscode-remote-release/images/remote-extensionpack.png" alt="Visual Studio Code logo"/></a></td>
-<td>
+<td> 
 <strong>Visual Studio Code Remote Development and GitHub Codespaces</strong><br />
 <i>Open your code in the cloud, in a local container, on a remote machine, or in WSL and take advantage of VS Code's full feature set.
 </td>
